@@ -1,1 +1,1 @@
-{:schema "etzhayyim.repository/v1" :name "com-etzhayyim-app-communities" :kind :app :canonical-metadata :edn}
+{:schema "etzhayyim.repository/v1" :name "app-communities" :kind :app :canonical-metadata :edn}
