@@ -114,7 +114,7 @@ git ls-files | grep -c wrangler          # 0
 and the workspace's own surface index has no row for it:
 
 ```bash
-nbb --classpath ".:scripts/nbb_compat" -e '…'   # 0 rows mentioning "communities"
+kbb --backend sci --classpath ".:scripts/nbb_compat" -e '…'   # 0 rows mentioning "communities"
 #   in 90-docs/surface/surface.datoms.edn
 ```
 
